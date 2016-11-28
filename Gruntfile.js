@@ -44,9 +44,9 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 	</section>
 
 	<section hidden="" aria-hidden="true" class="future" style="top: 200.5px; display: block;">
-	<h2>Hello There</h2>
+	<h>对于未知的求解</h2>
 <p>
-reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+人就是这样，总是对没有的物体产生浓厚的兴趣.
 </p>
 </section>
 
